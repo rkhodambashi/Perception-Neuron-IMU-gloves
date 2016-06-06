@@ -1,0 +1,9 @@
+L:\Roozbeh\Prosthetic Summer 2016\Neuron\neuron_datareader_b.12\NeuronDataReader SDK b12\NeuronDataReader_Windows\x86\Debug\demo_cs.exe.config
+L:\Roozbeh\Prosthetic Summer 2016\Neuron\neuron_datareader_b.12\NeuronDataReader SDK b12\NeuronDataReader_Windows\demo_cs\obj\Debug\demo_cs.csprojResolveAssemblyReference.cache
+L:\Roozbeh\Prosthetic Summer 2016\Neuron\neuron_datareader_b.12\NeuronDataReader SDK b12\NeuronDataReader_Windows\demo_cs\obj\Debug\MainWindow.baml
+L:\Roozbeh\Prosthetic Summer 2016\Neuron\neuron_datareader_b.12\NeuronDataReader SDK b12\NeuronDataReader_Windows\demo_cs\obj\Debug\MainWindow.g.cs
+L:\Roozbeh\Prosthetic Summer 2016\Neuron\neuron_datareader_b.12\NeuronDataReader SDK b12\NeuronDataReader_Windows\demo_cs\obj\Debug\App.g.cs
+L:\Roozbeh\Prosthetic Summer 2016\Neuron\neuron_datareader_b.12\NeuronDataReader SDK b12\NeuronDataReader_Windows\demo_cs\obj\Debug\demo_cs_MarkupCompile.cache
+L:\Roozbeh\Prosthetic Summer 2016\Neuron\neuron_datareader_b.12\NeuronDataReader SDK b12\NeuronDataReader_Windows\demo_cs\obj\Debug\demo_cs.g.resources
+L:\Roozbeh\Prosthetic Summer 2016\Neuron\neuron_datareader_b.12\NeuronDataReader SDK b12\NeuronDataReader_Windows\demo_cs\obj\Debug\demo_cs.Properties.Resources.resources
+L:\Roozbeh\Prosthetic Summer 2016\Neuron\neuron_datareader_b.12\NeuronDataReader SDK b12\NeuronDataReader_Windows\demo_cs\obj\Debug\demo_cs.csproj.GenerateResource.Cache
