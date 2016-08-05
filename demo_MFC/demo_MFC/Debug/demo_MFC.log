@@ -1,0 +1,21 @@
+﻿Build started 7/22/2016 8:10:08 PM.
+     1>Project "C:\Users\KR\Downloads\NeuronDataReader SDK b15\NeuronDataReader SDK b15\demo\demo_MFC\demo_MFC\demo_MFC.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(364,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\demo_MFC.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt demo_MFCDlg.cpp
+         demo_MFCDlg.cpp
+     1>c:\users\kr\downloads\neurondatareader sdk b15\neurondatareader sdk b15\demo\demo_mfc\demo_mfc\demo_mfcdlg.cpp(253): warning C4101: 'buf' : unreferenced local variable
+     1>c:\users\kr\downloads\neurondatareader sdk b15\neurondatareader sdk b15\demo\demo_mfc\demo_mfc\demo_mfcdlg.cpp(273): warning C4101: 'str' : unreferenced local variable
+     1>c:\users\kr\downloads\neurondatareader sdk b15\neurondatareader sdk b15\demo\demo_mfc\demo_mfc\demo_mfcdlg.cpp(778): warning C4101: 'e' : unreferenced local variable
+     1>c:\users\kr\downloads\neurondatareader sdk b15\neurondatareader sdk b15\demo\demo_mfc\demo_mfc\demo_mfcdlg.cpp(827): warning C4101: 'e' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"..\..\x86\demo_MFC.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"..\..\x86\demo_MFC.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"..\..\x86\demo_MFC.lib" /MACHINE:X86 Debug\demo_MFC.res
+         Debug\demo_MFC.obj
+         Debug\demo_MFCDlg.obj
+         Debug\stdafx.obj
+         demo_MFC.vcxproj -> C:\Users\KR\Downloads\NeuronDataReader SDK b15\NeuronDataReader SDK b15\demo\demo_MFC\demo_MFC\..\..\x86\demo_MFC.exe
+     1>Done Building Project "C:\Users\KR\Downloads\NeuronDataReader SDK b15\NeuronDataReader SDK b15\demo\demo_MFC\demo_MFC\demo_MFC.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.30
